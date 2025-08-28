@@ -168,8 +168,8 @@ aside ul {
 
 
 footer {
-    width:100%;
     background-color: var(--cor05);
+    height: 26px;
     padding: 12px;
     text-align: center;
     color: white;
