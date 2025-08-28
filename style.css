@@ -88,6 +88,7 @@ main {
     min-width: 400px;
     max-width: 800px;
     margin: auto;
+    margin-bottom: 30px;
     background-color: white;
     padding: 20px;
     border-bottom-left-radius: 10px;
@@ -175,7 +176,6 @@ aside ul {
 footer {
     background-color: var(--cor05);
     height: 16px;
-    margin: 15px 0 0 0;
     padding: 8px;
     text-align: center;
     color: white;
