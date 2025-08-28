@@ -25,6 +25,7 @@
 body {
     background-color: var(--cor01);
     margin: 0;
+    overflow-x: hidden;
 }
 .externo::after{
     content:"🔗";
