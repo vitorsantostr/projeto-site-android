@@ -36,6 +36,8 @@ header {
     text-align: center;
     font-family: var(--arial);
     color: white;
+    min-width:300px;
+    max-width:1000px;
     min-height:150px;
     padding-top:40px;
     padding-bottom: 30px;
