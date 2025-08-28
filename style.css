@@ -35,22 +35,23 @@ header {
     text-align: center;
     font-family: var(--arial);
     color: white;
-    padding: 25px;
-    margin: auto;
+    min-height:150px;
+    padding-top:40px;
 
 }
 
 header>h1 {
     margin-bottom: 20px;
-    padding: auto;
     font-size: 3em;
     font-family: var(--arial);
 }
 
 header > p {
     font-size: 1.2em;
+    max-width: 600px;
+    padding-left: 10px;
+    padding-right: 10px;
     margin: auto;
-    max-width: 500px;
     margin-bottom: 30px;
 }
 
